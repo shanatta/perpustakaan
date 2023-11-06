@@ -1,26 +1,20 @@
 <h2 align="center">
-  Project Web Perpustakaan<br/>
-  <a href="https://github.com/shanatta/basis-data" target="_blank">Preview</a>
+  Website Perpustakaan<br/>
+  <a href="https://shanatta.vercel.app/#" target="_blank">shanatta</a>
 </h2>
 <div align="center">
-  <img alt="banner" src="./index.jpg" />
+  <img alt="Demo" src="./index.jpg" />
 </div>
-  <img alt="home" src="./assets/images/home.jpg" />
 
 <br/>
 
-## Deskripsi
+## Built With
 
-Tes Sumatif Basis Data<br/>
-Kelompok: 5<br/>
-Tema: penjualan buah<br/>
-Nama Anggota:
+Library website that can add data, delete data, edit data, and show data.<br/>
 
-- Devi Natalia W (11)
-- Arni Tiara Putri (06)
-- Camela Desvita Putri (09)
-- Dona Cahyani (14) 
+This project was built using these technologies.
 
-Login<br/>
-username: Admin<br/>
-pw: admin
+- PHP
+- Blade
+- CSS
+- Laravel
