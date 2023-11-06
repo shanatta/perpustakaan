@@ -3,7 +3,7 @@
   <a href="https://github.com/shanatta/basis-data" target="_blank">Preview</a>
 </h2>
 <div align="center">
-  <img alt="banner" src="./index.jpeg" />
+  <img alt="banner" src="./index.jpg" />
 </div>
   <img alt="home" src="./assets/images/home.jpg" />
 
