@@ -1,6 +1,6 @@
 <h2 align="center">
   Website Perpustakaan<br/>
-  <a href="https://shanatta.vercel.app/#" target="_blank">shanatta</a>
+  <a href="#">shanatta</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./index.jpg" />
